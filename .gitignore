@@ -28,3 +28,7 @@ pnpm-debug.log*
 .idea
 .DS_Store
 Thumbs.db
+
+# Standalone private streak bot repo
+auto-streak-bot/
+
