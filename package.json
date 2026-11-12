@@ -1,0 +1,37 @@
+{
+  "name": "dev-swiss-knife",
+  "private": false,
+  "version": "1.0.0",
+  "description": "All-in-one Developer DevTools Hub built with React, Vite, and Tailwind CSS — JSON Formatter, JWT Decoder, Regex Tester, and Crypto Generators.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "developer-tools",
+    "devtools",
+    "json-formatter",
+    "jwt-decoder",
+    "regex-tester",
+    "react",
+    "tailwindcss",
+    "vite"
+  ],
+  "author": "Jaya Sri (@Jayasri7-ux)",
+  "license": "MIT",
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.0",
+    "vite": "^6.0.5"
+  }
+}
